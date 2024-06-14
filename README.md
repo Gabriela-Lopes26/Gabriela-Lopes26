@@ -13,6 +13,10 @@ estou aprendendo e criando projetos com:
   src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
   width="80px"
 />
+- <img
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  width="80px" height="30px"
+/>
 
 
 ### Connect with me:
